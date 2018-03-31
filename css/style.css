@@ -3,6 +3,10 @@
   font-family: "Varela Round", sans-serif;
 }
 
+* p {
+  font-size: 1.15rem;
+}
+
 .container {
   display: grid;
 }
@@ -115,7 +119,7 @@ footer span {
 
   main {
     grid-template-columns: 1fr ;
-    padding: 0;
+    padding: 25px 0;
   }
 
   main p {
